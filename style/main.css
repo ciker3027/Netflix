@@ -9,7 +9,7 @@
     box-sizing: border-box;
 }
 
-/*elementos base*/
+/*elementos base inicial*/
 body{
    background: var(--preta);
    font-family: 'Arial', Times, serif;
